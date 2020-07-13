@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="900915" started-at="2020-07-03T13:57:12Z" finished-at="2020-07-03T14:12:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="900915" started-at="2020-07-03T13:57:12Z" finished-at="2020-07-03T14:12:13Z">
+      <class name="TestSureShot.MoneyControlProject2">
+        <test-method status="PASS" signature="LaunchBrouser()[pri:1, instance:TestSureShot.MoneyControlProject2@28d25987]" name="LaunchBrouser" duration-ms="26071" started-at="2020-07-03T13:57:30Z" finished-at="2020-07-03T13:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrouser -->
+        <test-method status="PASS" signature="atest()[pri:2, instance:TestSureShot.MoneyControlProject2@28d25987]" name="atest" duration-ms="22671" started-at="2020-07-03T14:11:50Z" finished-at="2020-07-03T14:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+      </class> <!-- TestSureShot.MoneyControlProject2 -->
+      <class name="TestSureShot.MoneyControlProject">
+        <test-method status="PASS" signature="LaunchBrouser()[pri:1, instance:TestSureShot.MoneyControlProject@59fa1d9b]" name="LaunchBrouser" duration-ms="18351" started-at="2020-07-03T13:57:12Z" finished-at="2020-07-03T13:57:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrouser -->
+        <test-method status="PASS" signature="atest()[pri:2, instance:TestSureShot.MoneyControlProject@59fa1d9b]" name="atest" duration-ms="833749" started-at="2020-07-03T13:57:56Z" finished-at="2020-07-03T14:11:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+      </class> <!-- TestSureShot.MoneyControlProject -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
